@@ -2,10 +2,10 @@
 Welcome to the RPG - Dragon Hunter game! This is a simple web-based role-playing game where you prepare yourself to fight a dragon by exploring different locations, buying items, and battling monsters.
 
 ## Table of Contents
-- [Game Features](Game-Features)
-- [Installation and Setup](Installation-and-Setup)
-- [How to Play](How-to-Play)
-- [Files Structure](Files-Structure)
+- [Game Features](#Game-Features)
+- [Installation and Setup](#Installation-and-Setup)
+- [How to Play](#How-to-Play)
+- [Files Structure](#Files-Structure)
 
 ## Game Features
 - Explore different locations: town square, store, cave, and more.
