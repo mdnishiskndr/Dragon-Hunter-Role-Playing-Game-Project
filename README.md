@@ -1,7 +1,49 @@
-Overview:
+# Role Playing Game: Dragon Hunter
+Welcome to the RPG - Dragon Hunter game! This is a simple web-based role-playing game where you prepare yourself to fight a dragon by exploring different locations, buying items, and battling monsters.
 
-This project is a browser-based RPG game titled "Dragon Hunter" where players engage in a series of adventures to prepare for and ultimately fight a dragon. The game's interface displays the player's stats (XP, Health, and Gold) and provides control buttons to navigate through different locations and actions. Players can visit the store to buy health or weapons, venture into a cave to fight monsters, or directly engage in a dragon fight. The game's logic manages player actions, inventory, monster encounters, and game state transitions. Players earn gold and XP by defeating monsters, which they can use to purchase upgrades. Random events, such as weapon breakage during fights, add unpredictability. The ultimate goal is to defeat the dragon, with win and lose conditions providing a clear end to the game. The project combines dynamic updates, user interactions, and a simple yet engaging storyline to create an interactive gaming experience.
+## Table of Contents
+- [Game Features](Game-Features)
+- [Installation and Setup](Installation-and-Setup)
+- [How to Play](How-to-Play)
+- [Files Structure](Files-Structure)
 
+## Game Features
+- Explore different locations: town square, store, cave, and more.
+- Fight various monsters with different levels and health.
+- Buy health and weapons to prepare for battles.
+- Earn gold and experience points by defeating monsters.
+- Dynamic gameplay with different outcomes based on your choices.
+
+## Installation and Setup
+
+To get started with the game, simply clone this repository to your local machine:
+```bash
+git clone https://github.com/yourusername/rpg-dragon-hunter.git
+```
+
+Navigate to the project directory:
+```bash
+cd rpg-dragon-hunter
+```
+
+Open the `index.html` file in your preferred web browser to start playing the game.
+
+## How to Play
+1. **Start the Game:** Open `index.html` in your web browser.
+2. **Navigate Locations:** Use the buttons to navigate to different locations like the *store*, *cave*, or *fight the dragon*.
+3. **Buy Items:** In the store, you can *buy health* or *weapons* using the gold you have earned.
+4. **Fight Monsters:** Enter the cave to *fight monsters*. Choose to *attack*, *dodge*, or *run* during fights.
+5. **Defeat the Dragon:** Once you are prepared, *fight the dragon* to win the game.
+
+## Files Structure
+### `index.html`
+The main HTML file that sets up the game fundemental interface.
+
+### `styles.css`
+The CSS file that styles and design the game interface.
+
+### `script.js`
+The JavaScript file that contains the game logic and structure.
 
 Game Interface:
 ![image](https://github.com/user-attachments/assets/93fce203-04bc-4e19-b85d-a0a7c9f5dfbe)
